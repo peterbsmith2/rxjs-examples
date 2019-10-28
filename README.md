@@ -1,8 +1,6 @@
 # RxJs Examples
 ## Examples for Devs who cant async good and want to do other stuff good too
 
-## Intro
-
 ## Table of Contents
 [Example 1: map, switchMap, and custom operator ofType]()  
 [Example 2: catchError]()  
