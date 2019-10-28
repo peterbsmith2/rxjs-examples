@@ -2,14 +2,14 @@
 ## Examples for Devs who cant async good and want to do other stuff good too
 
 ## Table of Contents
-[Example 1: map, switchMap, and custom operator ofType]()  
-[Example 2: catchError]()  
-[Example 3: withLatestFrom, filter, switchMap]()  
-[Example 4: retry]()  
-[Example 5: retryWhen, delay, scan]()  
-[Example 6: drawing shapes with combineLatest]()  
-[Example 7: GitHub Search](https://github.com/ecmadao/rxjs-example)  
-[Example 8: Playground](https://github.com/JayKan/RxJS-Playground)  
+[Example 1: map, switchMap, and custom operator ofType](#example-1-map-switchmap-and-custom-operator-oftype)  
+[Example 2: catchError](#example-2-catcherror)  
+[Example 3: withLatestFrom, filter, switchMap](#example-3-withlatestfrom-filter-switchmap)  
+[Example 4: retry](#example-4-retry)  
+[Example 5: retryWhen, delay, scan](#example-5-retrywhen-delay-scan)  
+[Example 6: drawing shapes with combineLatest](#example-6-drawing-shapes-with-combinelatest)  
+[Example 7: GitHub Search](#example-6-drawing-shapes-with-combinelatest)  
+[Example 8: Playground](#example-8-playground)  
 
   
 ## Example 1: map, switchMap, and custom operator ofType
